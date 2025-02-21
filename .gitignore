@@ -6,12 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+#Entorno virtual de python con conda 
+.conda
+
 # Distribution / packaging
 .Python
 build/
 develop-eggs/
 dist/
-downloads/
+downloads
 eggs/
 .eggs/
 lib/

@@ -5,19 +5,13 @@ Este proyecto consiste en migrar datos desde un archivo CSV a una base de datos 
 
 # Tecnologías Utilizadas
 
-Python 🐍
-
-MySQL 🛢️
-
-Pandas 📊
-
-SQLAlchemy 🔗
-
-Streamlit 🌐
-
-Plotly 📈
-
-dotenv 🔒
+- Python 🐍
+- MySQL 🛢️
+- Pandas 📊
+- SQLAlchemy 🔗
+- Streamlit 🌐
+- Plotly 📈
+- dotenv 🔒
 
 # Instalación
 

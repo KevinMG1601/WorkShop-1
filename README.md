@@ -32,10 +32,10 @@ pip install -r requirements.txt
 
 3️⃣ Crea el archivo .env y agrega tus credenciales de MySQL:
 
-DB_USER = "USER"
-DB_PASSWORD = "PASSWORD"
-DB_HOST = "localhost"
-DB = "Database"
+-DB_USER = "USER"
+-DB_PASSWORD = "PASSWORD"
+-DB_HOST = "localhost"
+-DB = "Database"
 
 4️⃣ Ejecuta el script para migrar los datos desde el CSV a MySQL:
 

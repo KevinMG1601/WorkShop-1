@@ -38,5 +38,5 @@ En la carpeta jupyter esta los dos notebooks el primero seria el de limpieza y l
 5️⃣ Corre el dashboard en Streamlit:
 
 - cd dashboard
-- streamlit run dashboard.py
+- streamlit run connection.py
 
